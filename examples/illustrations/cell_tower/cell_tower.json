@@ -52,10 +52,7 @@
                     "drafting:mcc": "310",
                     "drafting:mnc": "",
                     "drafting:lac": "2953",
-                    "drafting:cid": "187589293",
-                    "drafting:nid": "",
-                    "drafting:bid": "",
-                    "drafting:sid": ""
+                    "drafting:cid": "187589293"
                 }
             ],
             "uco-observable:location": {
@@ -69,7 +66,9 @@
                 {
                     "@type": "uco-location:LatLongCoordinatesFacet",
                     "uco-location:latitude": "40.11259078",
-                    "uco-location:longitude": "-75.65714263"
+                    "uco-location:longitude": "-75.65714263",
+                    "uco-location:altitude":"110.533",
+                    "drafting:locationType": "Cell Tower"
                 }
             ]
         },
